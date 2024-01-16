@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<odoo>
+    <menuitem id="event_management_menu_root"
+        name="Organizer"
+        sequence="1"/>
+</odoo>
